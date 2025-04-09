@@ -44,7 +44,7 @@ Le code utilise principalement des fonctions d'OpenCV et de matplotlib pour réa
 ## Résultats attendus
 
 - **Image originale** : L'image telle qu'elle a été chargée.
-  ![Image originale](C:\Users\User\Desktop\git-test\originale.png)
+  ![Image originale](git-test\originale.png)
 - **Image en niveaux de gris** : L'image convertie en niveaux de gris, simplifiant ainsi les traitements.
   ![Image en niveaux de gris](C:\Users\User\Desktop\git-test\gray.png)
 - **Image égalisée** : L'image après l'égalisation de l'histogramme, avec un meilleur contraste
